@@ -7,8 +7,14 @@
 		"uuidString": "D5A404F6-378E-46A0-BB30-A71A5D6DB922"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25813",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.gitignore",
+		"oF": 0
+		},
 	"\/Assets\/569c4b676dc59576.zip": {
 		"ft": 8192,
 		"oA": 2,
@@ -26,6 +32,24 @@
 		"oA": 2,
 		"oAP": "\/dist\/Assets\/569c4b676dc59576\/user-profile-free-psd.psd",
 		"oF": 0
+		},
+	"\/Assets\/test\/file_content.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/dist\/Assets\/test\/file_content-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/Assets\/test\/file_existence.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/dist\/Assets\/test\/file_existence-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -148,7 +172,10 @@
 		"oA": 2,
 		"oAP": "\/dist\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/browserconfig.xml": {
 		"ft": 8192,
@@ -1267,6 +1294,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/css\/3-layouts\/_layout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dist\/css\/3-layouts\/_layout.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/css\/3-layouts\/_style.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1465,6 +1505,136 @@
 		"oAP": "\/dist\/img\/.gitignore",
 		"oF": 0
 		},
+	"\/src\/img\/arrow.jpg": {
+		"ft": 16384,
+		"iS": 998,
+		"oA": 0,
+		"oAP": "\/dist\/img\/arrow.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/arrow.png": {
+		"ft": 32768,
+		"iS": 1044,
+		"oA": 0,
+		"oAP": "\/dist\/img\/arrow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/bck.png": {
+		"ft": 32768,
+		"iS": 359029,
+		"oA": 0,
+		"oAP": "\/dist\/img\/bck.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/camera.png": {
+		"ft": 32768,
+		"iS": 990,
+		"oA": 0,
+		"oAP": "\/dist\/img\/camera.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/followers.png": {
+		"ft": 32768,
+		"iS": 684,
+		"oA": 0,
+		"oAP": "\/dist\/img\/followers.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/following.png": {
+		"ft": 32768,
+		"iS": 1037,
+		"oA": 0,
+		"oAP": "\/dist\/img\/following.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/girl-avatar.jpg": {
+		"ft": 16384,
+		"iS": 21674,
+		"oA": 0,
+		"oAP": "\/dist\/img\/girl-avatar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/icon copy 2-1.png": {
+		"ft": 32768,
+		"iS": 522,
+		"oA": 0,
+		"oAP": "\/dist\/img\/icon copy 2-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/icon copy 2.png": {
+		"ft": 32768,
+		"iS": 316,
+		"oA": 0,
+		"oAP": "\/dist\/img\/icon copy 2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/label.png": {
+		"ft": 32768,
+		"iS": 906,
+		"oA": 0,
+		"oAP": "\/dist\/img\/label.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/orange_follow.png": {
+		"ft": 32768,
+		"iS": 2270,
+		"oA": 0,
+		"oAP": "\/dist\/img\/orange_follow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/pointer.png": {
+		"ft": 32768,
+		"iS": 1621,
+		"oA": 0,
+		"oAP": "\/dist\/img\/pointer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1510,7 +1680,10 @@
 		"oA": 2,
 		"oAP": "\/dist\/tile-wide.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/tile.png": {
 		"ft": 32768,
@@ -1518,25 +1691,10 @@
 		"oA": 2,
 		"oAP": "\/dist\/tile.png",
 		"oF": 0,
-		"opt": 0
-		},
-	"\/test\/file_content.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/dist\/test\/file_content-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/test\/file_existence.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/dist\/test\/file_existence-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -2219,6 +2377,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -2419,6 +2581,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -2496,6 +2662,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2695,6 +2865,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -2746,6 +2920,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2840,6 +3018,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -3286,7 +3468,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -3309,14 +3492,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -3379,7 +3554,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
